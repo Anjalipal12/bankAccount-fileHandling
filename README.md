@@ -20,6 +20,11 @@ This is a simple **Bank Account Management System** built using C++ with file ha
 - Basic OOP (Class: `Account`)
 
 ---
+## 📁 Project Structure
 
-## 📁 File Structure:
+- [Account.txt](./Account.txt)
+- [Account Temp.txt](./Account%20Temp.txt)
+- [main.cpp](./main.cpp)
+- [README.md](./README.md)
+
 
